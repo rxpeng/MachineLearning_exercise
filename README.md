@@ -15,4 +15,4 @@ Details: I use different approaches to establish relation between the text and t
 Dataset Description: We use a database of 4000 text messages contains a collection of 538 spam messages, and a subset of 3,462  non-spam messages. The dataset is a csv file, in first column starts with the label of the message, followed by the second column which is the text message string. After preprocessing of the data and extraction of features, machine learning techniques are applied to the samples, and their performances are compared.
 
 
-
+##Second exercise: Wine type and Quality classfication and predition
